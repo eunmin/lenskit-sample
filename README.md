@@ -1,10 +1,10 @@
 # lenskit-sample
 
-A Clojure library designed to ... well, that part is up to you.
+Lenskit Sample Project (http://lenskit.org/documentation/basics/getting-started/)
 
 ## Usage
 
-FIXME
+`lein run [userid]`
 
 ## License
 
